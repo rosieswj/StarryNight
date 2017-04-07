@@ -1,6 +1,7 @@
 # StarryNight
 
 ***PROJECT OVERVIEW***
+
 This program is an interactive animation program which combines game and drawing experience, using 3d graphic module Processing. It has 2 implementations that create a complete UI:
 
 1. the first part is an interactive animation that combines jigsaw puzzle game with the 3D animation, in which the famous artwork by Van Goph is animated 
@@ -8,6 +9,7 @@ This program is an interactive animation program which combines game and drawing
 
 
 ***LIBRARY/MODULE***
+
 This program runs in Processing, a 3D-graphics library featured in python
 
 - first, install python3 from here
